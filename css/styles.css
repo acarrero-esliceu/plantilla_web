@@ -1,1 +1,42 @@
 @import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100..900;1,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto:wght@100;400&display=swap');
+
+body {
+    font-family: "Epilogue", sans-serif;
+}
+
+.navegacion{
+    font-size: 18px;
+    background-color: #2b2b2b;
+    font-weight: 600;
+    line-height: 36px;
+}
+
+.p-default{
+    padding-top: 160px;
+    padding-right: 220px;
+    padding-bottom: 60px;
+    padding-left: 220px;
+}
+
+.titulo{
+    font-size: 24px;
+}
+
+.texto{
+    font-size: 16px;
+}
+
+.texto-gris{
+    font-size: 16px;
+    color:#aaaaaa;
+}
+
+.boton{
+    width: 115px;
+    height: 32px;
+    font-size: 16px;
+}
+
+.col-80{
+    width:80%;
+}

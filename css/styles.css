@@ -40,3 +40,20 @@ body {
 .col-80{
     width:80%;
 }
+
+.center{
+    padding-right: 220px;
+    padding-left: 220px;
+}
+
+.descripcion{
+    font-size: 16px;
+    color: 808080;
+}
+
+.showmore{
+    width: 199.8px;
+    height: 60px;
+    gap: 0px;
+    opacity: 0px;
+}
